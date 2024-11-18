@@ -21,7 +21,7 @@ The aim of our project is to test ChatGPT’s abilities to provide an insightful
 For the Python code used in this repository you need to fulfill some basic requirements.
 
 * Visual Studio Code (or any other programming environment)
-* OpenAI API Key (can be obtained [here](openai.com))
+* OpenAI API Key
 * Excel
 
 You also need to install some libraries which can be performed with the following line:
