@@ -1,0 +1,24 @@
+This folder contains the results for every step of the project with a short description.
+
+* [reviewsfin](reviewsfin.xlsm) is our modified [dataset](https://github.com/IsakZhang/ABSA-QUAD/blob/master/data/rest16/train.txt).
+
+* [ASQP_all_weeks](ASQP_all_weeks.xlsx) is the output file of the sentiment analysis where each review has only one sentiment quad. Reviews with multiple quads appear multiple times.
+
+* [ASQP_sorted](ASQP_sorted.xlsx) is the modified output where reviews can have multiple quads without creating duplicates.
+
+* [ASQP_Human_Evaluation_Week1](ASQP_Human_Evaluation_Week1.xlsx) shows the results of the human evaluation results for one example week.
+
+* [WeeklySummariesOutput](WeeklySummariesOutput.xlsx): Excel output of weekly summaries.
+
+* [WarningsOutput](WarningsOutput.xlsx): Excel output of warnings.
+
+
+* [tabelle_weekly_neg](tabelle_weekly_neg.xlsx) shows the number of negative reviews per week and a chart.
+
+* [tabelle_monthly_neg](tabelle_monthly_neg.xlsx) shows the number of negative reviews per month and a chart. 
+
+* [tabelle_cat_neg](tabelle_cat_neg.xlsx) shows the number of negative reviews in each category and a chart.
+
+* [tabelle_warn_week_neg](tabelle_warn_week_neg.xlsx) shows the number of negative reviews and warnings and a chart.
+
+* [tabelle_warning_counts](tabelle_warning_counts.xlsx) shows the number of occurrences for the warning conditions and a chart.
