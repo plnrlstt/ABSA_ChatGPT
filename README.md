@@ -6,8 +6,6 @@ Our project is about using **ChatGPT as a PR-Management Expert** that evaluates 
 
 In our [project outline](https://docs.google.com/document/d/12RYexcdQH-3xhM-T3H6ztGkI95sITbloao5V_5Vknhw/edit) we summarized our inital thoughts and ideas and also how we planned to approach the task. The [final project report](Group_BEP__Report.pdf) gives a detailed insight into the execution of out project,our results and the conclusions. 
 
-The explanation of the code and how to use it can be found [here](code/Group_BEP__Code.pdf).
-
 ## 🧾Contents
 
 1. [About](#introduction)
